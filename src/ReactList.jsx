@@ -1,6 +1,5 @@
 export  function ReactList() {
 
-    const gameList
 
      const recipes = [{
         id: 'greek-salad',
