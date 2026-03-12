@@ -1,0 +1,16 @@
+
+.newbody{
+    background-color: blue;
+    margin: 0.9pc 10px;
+    padding: 6px;
+
+}
+
+.success{
+    background-color: color-mix(green,orange);
+}
+.error{
+    background-color: red;
+    opacity: 50;
+
+}

@@ -5,7 +5,7 @@ export  function MyButton() {
 
 
 return<>
-<button className={'mb-2'}  > hello supper  </button>
+<button className={'mb-2 error'}  > hello supper  </button>
 
     <SignIn />
     </>
